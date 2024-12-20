@@ -1,0 +1,660 @@
+[
+    {
+        "movie_id": "tt0068646",
+        "domestic_distributor": "Paramount Pictures",
+        "genres": "Crime, Drama",
+        "director": "Francis Ford Coppola",
+        "movie_casts": "Marlon Brando, Al Pacino, James Caan, Diane Keaton"
+    },
+    {
+        "movie_id": "tt0108052",
+        "domestic_distributor": "Universal Pictures",
+        "genres": "Biography, Drama, History",
+        "director": "Steven Spielberg",
+        "movie_casts": "Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall"
+    },
+    {
+        "movie_id": "tt0109830",
+        "domestic_distributor": "Paramount Pictures",
+        "genres": "Drama, Romance",
+        "director": "Robert Zemeckis",
+        "movie_casts": "Tom Hanks, Robin Wright, Gary Sinise, Sally Field"
+    },
+    {
+        "movie_id": "tt0167260",
+        "domestic_distributor": "New Line Cinema",
+        "genres": "Adventure, Drama, Fantasy",
+        "director": "Peter Jackson",
+        "movie_casts": "Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom"
+    },
+    {
+        "movie_id": "tt0111161",
+        "domestic_distributor": "Columbia Pictures",
+        "genres": "Drama",
+        "director": "Frank Darabont",
+        "movie_casts": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler"
+    },
+    {
+        "movie_id": "tt0110912",
+        "domestic_distributor": "Miramax",
+        "genres": "Crime, Drama",
+        "director": "Quentin Tarantino",
+        "movie_casts": "John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis"
+    },
+    {
+        "movie_id": "tt0080684",
+        "domestic_distributor": "Twentieth Century Fox",
+        "genres": "Action, Adventure, Fantasy, Sci-Fi",
+        "director": "Irvin Kershner",
+        "movie_casts": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams"
+    },
+    {
+        "movie_id": "tt0167261",
+        "domestic_distributor": "New Line Cinema",
+        "genres": "Adventure, Drama, Fantasy",
+        "director": "Peter Jackson",
+        "movie_casts": "Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom"
+    },
+    {
+        "movie_id": "tt0120737",
+        "domestic_distributor": "New Line Cinema",
+        "genres": "Adventure, Drama, Fantasy",
+        "director": "Peter Jackson",
+        "movie_casts": "Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean"
+    },
+    {
+        "movie_id": "tt0137523",
+        "domestic_distributor": "Twentieth Century Fox",
+        "genres": "Drama",
+        "director": "David Fincher",
+        "movie_casts": "Brad Pitt, Edward Norton, Meat Loaf, Zach Grenier"
+    },
+    {
+        "movie_id": "tt0114369",
+        "domestic_distributor": "New Line Cinema",
+        "genres": "Crime, Drama, Mystery, Thriller",
+        "director": "David Fincher",
+        "movie_casts": "Morgan Freeman, Brad Pitt, Kevin Spacey, Andrew Kevin Walker"
+    },
+    {
+        "movie_id": "tt0102926",
+        "domestic_distributor": "Orion Pictures",
+        "genres": "Crime, Drama, Thriller",
+        "director": "Jonathan Demme",
+        "movie_casts": "Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine"
+    },
+    {
+        "movie_id": "tt0468569",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Action, Crime, Drama, Thriller",
+        "director": "Christopher Nolan",
+        "movie_casts": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine"
+    },
+    {
+        "movie_id": "tt0120689",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Crime, Drama, Fantasy, Mystery",
+        "director": "Frank Darabont",
+        "movie_casts": "Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt"
+    },
+    {
+        "movie_id": "tt1375666",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Action, Adventure, Sci-Fi, Thriller",
+        "director": "Christopher Nolan",
+        "movie_casts": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Ken Watanabe"
+    },
+    {
+        "movie_id": "tt0816692",
+        "domestic_distributor": "Paramount Pictures",
+        "genres": "Adventure, Drama, Sci-Fi",
+        "director": "Christopher Nolan",
+        "movie_casts": "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy"
+    },
+    {
+        "movie_id": "tt0103064",
+        "domestic_distributor": "TriStar Pictures",
+        "genres": "Action, Adventure, Sci-Fi",
+        "director": "James Cameron",
+        "movie_casts": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick"
+    },
+    {
+        "movie_id": "tt0120815",
+        "domestic_distributor": "DreamWorks Distribution",
+        "genres": "Drama, War",
+        "director": "Steven Spielberg",
+        "movie_casts": "Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns"
+    },
+    {
+        "movie_id": "tt0133093",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Action, Sci-Fi",
+        "director": "Lana Wachowski",
+        "movie_casts": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving"
+    },
+    {
+        "movie_id": "tt0076759",
+        "domestic_distributor": "Twentieth Century Fox",
+        "genres": "Action, Adventure, Fantasy, Sci-Fi",
+        "director": "George Lucas",
+        "movie_casts": "Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness"
+    },
+    {
+        "movie_id": "tt0088763",
+        "domestic_distributor": "Universal Pictures",
+        "genres": "Adventure, Comedy, Sci-Fi",
+        "director": "Robert Zemeckis",
+        "movie_casts": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover"
+    },
+    {
+        "movie_id": "tt0253474",
+        "domestic_distributor": "Focus Features",
+        "genres": "Biography, Drama, Music, War",
+        "director": "Roman Polanski",
+        "movie_casts": "Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox"
+    },
+    {
+        "movie_id": "tt6751668",
+        "domestic_distributor": "Neon",
+        "genres": "Drama, Thriller",
+        "director": "Bong Joon Ho",
+        "movie_casts": "Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-sik"
+    },
+    {
+        "movie_id": "tt0110357",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Adventure, Animation, Drama, Family, Fantasy, Musical",
+        "director": "Roger Allers",
+        "movie_casts": "Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg"
+    },
+    {
+        "movie_id": "tt0120586",
+        "domestic_distributor": "New Line Cinema",
+        "genres": "Crime, Drama",
+        "director": "Tony Kaye",
+        "movie_casts": "Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien"
+    },
+    {
+        "movie_id": "tt0172495",
+        "domestic_distributor": "DreamWorks Distribution",
+        "genres": "Action, Adventure, Drama",
+        "director": "Ridley Scott",
+        "movie_casts": "Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed"
+    },
+    {
+        "movie_id": "tt2582802",
+        "domestic_distributor": "Sony Pictures Classics",
+        "genres": "Drama, Music",
+        "director": "Damien Chazelle",
+        "movie_casts": "Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser"
+    },
+    {
+        "movie_id": "tt0407887",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Crime, Drama, Thriller",
+        "director": "Martin Scorsese",
+        "movie_casts": "Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg"
+    },
+    {
+        "movie_id": "tt0114814",
+        "domestic_distributor": "Gramercy Pictures (I)",
+        "genres": "Crime, Drama, Mystery, Thriller",
+        "director": "Bryan Singer",
+        "movie_casts": "Kevin Spacey, Gabriel Byrne, Chazz Palminteri, Stephen Baldwin"
+    },
+    {
+        "movie_id": "tt0482571",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Drama, Mystery, Sci-Fi, Thriller",
+        "director": "Christopher Nolan",
+        "movie_casts": "Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine"
+    },
+    {
+        "movie_id": "tt0078748",
+        "domestic_distributor": "Twentieth Century Fox",
+        "genres": "Horror, Sci-Fi",
+        "director": "Ridley Scott",
+        "movie_casts": "Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright"
+    },
+    {
+        "movie_id": "tt0209144",
+        "domestic_distributor": "Newmarket Films",
+        "genres": "Mystery, Thriller",
+        "director": "Christopher Nolan",
+        "movie_casts": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior"
+    },
+    {
+        "movie_id": "tt1853728",
+        "domestic_distributor": "The Weinstein Company",
+        "genres": "Comedy, Drama, Western",
+        "director": "Quentin Tarantino",
+        "movie_casts": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington"
+    },
+    {
+        "movie_id": "tt0082971",
+        "domestic_distributor": "Paramount Pictures",
+        "genres": "Action, Adventure",
+        "director": "Steven Spielberg",
+        "movie_casts": "Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies"
+    },
+    {
+        "movie_id": "tt0405094",
+        "domestic_distributor": "Sony Pictures Classics",
+        "genres": "Drama, Mystery, Thriller",
+        "director": "Florian Henckel von Donnersmarck",
+        "movie_casts": "Ulrich M\u00fche, Martina Gedeck, Sebastian Koch, Ulrich Tukur"
+    },
+    {
+        "movie_id": "tt4633694",
+        "domestic_distributor": "Sony Pictures Releasing",
+        "genres": "Action, Adventure, Animation, Comedy, Family, Fantasy, Sci-Fi",
+        "director": "Bob Persichetti",
+        "movie_casts": "Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali"
+    },
+    {
+        "movie_id": "tt0910970",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Adventure, Animation, Family, Sci-Fi",
+        "director": "Andrew Stanton",
+        "movie_casts": "Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard"
+    },
+    {
+        "movie_id": "tt0081505",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Drama, Horror",
+        "director": "Stanley Kubrick",
+        "movie_casts": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers"
+    },
+    {
+        "movie_id": "tt0361748",
+        "domestic_distributor": "The Weinstein Company",
+        "genres": "Adventure, Drama, War",
+        "director": "Quentin Tarantino",
+        "movie_casts": "Brad Pitt, Diane Kruger, Eli Roth, M\u00e9lanie Laurent"
+    },
+    {
+        "movie_id": "tt4154796",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Action, Adventure, Drama, Sci-Fi",
+        "director": "Anthony Russo",
+        "movie_casts": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth"
+    },
+    {
+        "movie_id": "tt0169547",
+        "domestic_distributor": "DreamWorks Distribution",
+        "genres": "Drama",
+        "director": "Sam Mendes",
+        "movie_casts": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley"
+    },
+    {
+        "movie_id": "tt0112573",
+        "domestic_distributor": "Paramount Pictures",
+        "genres": "Biography, Drama, War",
+        "director": "Mel Gibson",
+        "movie_casts": "Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen"
+    },
+    {
+        "movie_id": "tt1345836",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Action, Drama, Thriller",
+        "director": "Christopher Nolan",
+        "movie_casts": "Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman"
+    },
+    {
+        "movie_id": "tt7286456",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Crime, Drama, Thriller",
+        "director": "Todd Phillips",
+        "movie_casts": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy"
+    },
+    {
+        "movie_id": "tt0086190",
+        "domestic_distributor": "Twentieth Century Fox",
+        "genres": "Action, Adventure, Fantasy, Sci-Fi",
+        "director": "Richard Marquand",
+        "movie_casts": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams"
+    },
+    {
+        "movie_id": "tt0338013",
+        "domestic_distributor": "Focus Features",
+        "genres": "Drama, Romance, Sci-Fi",
+        "director": "Michel Gondry",
+        "movie_casts": "Jim Carrey, Kate Winslet, Tom Wilkinson, Gerry Robert Byrne"
+    },
+    {
+        "movie_id": "tt1255953",
+        "domestic_distributor": "Sony Pictures Classics",
+        "genres": "Drama, Mystery, War",
+        "director": "Denis Villeneuve",
+        "movie_casts": "Lubna Azabal, M\u00e9lissa D\u00e9sormeaux-Poulin, Maxim Gaudette, Mustafa Kamel"
+    },
+    {
+        "movie_id": "tt0105236",
+        "domestic_distributor": "Miramax",
+        "genres": "Crime, Thriller",
+        "director": "Quentin Tarantino",
+        "movie_casts": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn"
+    },
+    {
+        "movie_id": "tt0093058",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Drama, War",
+        "director": "Stanley Kubrick",
+        "movie_casts": "Matthew Modine, R. Lee Ermey, Vincent D'Onofrio, Adam Baldwin"
+    },
+    {
+        "movie_id": "tt0211915",
+        "domestic_distributor": "Miramax",
+        "genres": "Comedy, Romance",
+        "director": "Jean-Pierre Jeunet",
+        "movie_casts": "Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta"
+    },
+    {
+        "movie_id": "tt0435761",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Adventure, Animation, Comedy, Family, Fantasy",
+        "director": "Lee Unkrich",
+        "movie_casts": "Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty"
+    },
+    {
+        "movie_id": "tt0097576",
+        "domestic_distributor": "Paramount Pictures",
+        "genres": "Action, Adventure",
+        "director": "Steven Spielberg",
+        "movie_casts": "Harrison Ford, Sean Connery, Alison Doody, Denholm Elliott"
+    },
+    {
+        "movie_id": "tt1049413",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Adventure, Animation, Comedy, Drama, Family",
+        "director": "Pete Docter",
+        "movie_casts": "Edward Asner, Jordan Nagai, John Ratzenberger, Christopher Plummer"
+    },
+    {
+        "movie_id": "tt8579674",
+        "domestic_distributor": "Universal Pictures",
+        "genres": "Action, Drama, War",
+        "director": "Sam Mendes",
+        "movie_casts": "Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth"
+    },
+    {
+        "movie_id": "tt0993846",
+        "domestic_distributor": "Paramount Pictures",
+        "genres": "Biography, Comedy, Crime, Drama",
+        "director": "Martin Scorsese",
+        "movie_casts": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey"
+    },
+    {
+        "movie_id": "tt0095016",
+        "domestic_distributor": "Twentieth Century Fox",
+        "genres": "Action, Thriller",
+        "director": "John McTiernan",
+        "movie_casts": "Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson"
+    },
+    {
+        "movie_id": "tt6966692",
+        "domestic_distributor": "Universal Pictures",
+        "genres": "Biography, Comedy, Drama, Music",
+        "director": "Peter Farrelly",
+        "movie_casts": "Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco"
+    },
+    {
+        "movie_id": "tt0469494",
+        "domestic_distributor": "Paramount Vantage",
+        "genres": "Drama",
+        "director": "Paul Thomas Anderson",
+        "movie_casts": "Daniel Day-Lewis, Paul Dano, Ciar\u00e1n Hinds, Martin Stringer"
+    },
+    {
+        "movie_id": "tt1130884",
+        "domestic_distributor": "Paramount Pictures",
+        "genres": "Drama, Mystery, Thriller",
+        "director": "Martin Scorsese",
+        "movie_casts": "Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo, Ben Kingsley"
+    },
+    {
+        "movie_id": "tt0107290",
+        "domestic_distributor": "Universal Pictures",
+        "genres": "Action, Adventure, Sci-Fi, Thriller",
+        "director": "Steven Spielberg",
+        "movie_casts": "Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough"
+    },
+    {
+        "movie_id": "tt0268978",
+        "domestic_distributor": "Universal Pictures",
+        "genres": "Biography, Drama, Mystery",
+        "director": "Ron Howard",
+        "movie_casts": "Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer"
+    },
+    {
+        "movie_id": "tt0167404",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Drama, Mystery, Thriller",
+        "director": "M. Night Shyamalan",
+        "movie_casts": "Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams"
+    },
+    {
+        "movie_id": "tt0457430",
+        "domestic_distributor": "Picturehouse",
+        "genres": "Drama, Fantasy, War",
+        "director": "Guillermo del Toro",
+        "movie_casts": "Ivana Baquero, Ariadna Gil, Sergi L\u00f3pez, Maribel Verd\u00fa"
+    },
+    {
+        "movie_id": "tt0266697",
+        "domestic_distributor": "Miramax",
+        "genres": "Action, Crime, Thriller",
+        "director": "Quentin Tarantino",
+        "movie_casts": "Uma Thurman, David Carradine, Daryl Hannah, Michael Madsen"
+    },
+    {
+        "movie_id": "tt0372784",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Action, Drama",
+        "director": "Christopher Nolan",
+        "movie_casts": "Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson"
+    },
+    {
+        "movie_id": "tt0266543",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Adventure, Animation, Comedy, Family",
+        "director": "Andrew Stanton",
+        "movie_casts": "Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe"
+    },
+    {
+        "movie_id": "tt1392214",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Crime, Drama, Mystery, Thriller",
+        "director": "Denis Villeneuve",
+        "movie_casts": "Hugh Jackman, Jake Gyllenhaal, Viola Davis, Melissa Leo"
+    },
+    {
+        "movie_id": "tt2096673",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Adventure, Animation, Comedy, Drama, Family, Fantasy",
+        "director": "Pete Docter",
+        "movie_casts": "Amy Poehler, Bill Hader, Lewis Black, Mindy Kaling"
+    },
+    {
+        "movie_id": "tt0116282",
+        "domestic_distributor": "Gramercy Pictures (I)",
+        "genres": "Crime, Drama, Thriller",
+        "director": "Joel Coen",
+        "movie_casts": "William H. Macy, Frances McDormand, Steve Buscemi, Peter Stormare"
+    },
+    {
+        "movie_id": "tt0264464",
+        "domestic_distributor": "DreamWorks Distribution",
+        "genres": "Biography, Crime, Drama",
+        "director": "Steven Spielberg",
+        "movie_casts": "Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen"
+    },
+    {
+        "movie_id": "tt0405159",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Drama, Sport",
+        "director": "Clint Eastwood",
+        "movie_casts": "Hilary Swank, Clint Eastwood, Morgan Freeman, Jay Baruchel"
+    },
+    {
+        "movie_id": "tt1291584",
+        "domestic_distributor": "Lionsgate",
+        "genres": "Action, Drama, Sport",
+        "director": "Gavin O'Connor",
+        "movie_casts": "Tom Hardy, Nick Nolte, Joel Edgerton, Jennifer Morrison"
+    },
+    {
+        "movie_id": "tt1205489",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Drama",
+        "director": "Clint Eastwood",
+        "movie_casts": "Clint Eastwood, Bee Vang, Christopher Carley, Ahney Her"
+    },
+    {
+        "movie_id": "tt2024544",
+        "domestic_distributor": "Fox Searchlight",
+        "genres": "Biography, Drama, History",
+        "director": "Steve McQueen",
+        "movie_casts": "Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt"
+    },
+    {
+        "movie_id": "tt0434409",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Action, Drama, Sci-Fi, Thriller",
+        "director": "James McTeigue",
+        "movie_casts": "Hugo Weaving, Natalie Portman, Rupert Graves, Stephen Rea"
+    },
+    {
+        "movie_id": "tt0112471",
+        "domestic_distributor": "Sony Pictures Releasing",
+        "genres": "Drama, Romance",
+        "director": "Richard Linklater",
+        "movie_casts": "Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno P\u00f6schl"
+    },
+    {
+        "movie_id": "tt2119532",
+        "domestic_distributor": "Lionsgate",
+        "genres": "Biography, Drama, History, War",
+        "director": "Mel Gibson",
+        "movie_casts": "Andrew Garfield, Sam Worthington, Luke Bracey, Teresa Palmer"
+    },
+    {
+        "movie_id": "tt2278388",
+        "domestic_distributor": "Fox Searchlight",
+        "genres": "Adventure, Comedy, Crime",
+        "director": "Wes Anderson",
+        "movie_casts": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody"
+    },
+    {
+        "movie_id": "tt0198781",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Adventure, Animation, Comedy, Family, Fantasy",
+        "director": "Pete Docter",
+        "movie_casts": "Billy Crystal, John Goodman, Mary Gibbs, Steve Buscemi"
+    },
+    {
+        "movie_id": "tt1392190",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Action, Adventure, Sci-Fi, Thriller",
+        "director": "George Miller",
+        "movie_casts": "Tom Hardy, Charlize Theron, Nicholas Hoult, Zo\u00eb Kravitz"
+    },
+    {
+        "movie_id": "tt0382932",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Adventure, Animation, Comedy, Family, Fantasy",
+        "director": "Brad Bird",
+        "movie_casts": "Brad Garrett, Lou Romano, Patton Oswalt, Ian Holm"
+    },
+    {
+        "movie_id": "tt2267998",
+        "domestic_distributor": "Twentieth Century Fox",
+        "genres": "Drama, Mystery, Thriller",
+        "director": "David Fincher",
+        "movie_casts": "Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry"
+    },
+    {
+        "movie_id": "tt0073195",
+        "domestic_distributor": "Universal Pictures",
+        "genres": "Adventure, Drama, Thriller",
+        "director": "Steven Spielberg",
+        "movie_casts": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary"
+    },
+    {
+        "movie_id": "tt1950186",
+        "domestic_distributor": "Twentieth Century Fox",
+        "genres": "Action, Biography, Drama, Sport",
+        "director": "James Mangold",
+        "movie_casts": "Matt Damon, Christian Bale, Jon Bernthal, Caitr\u00edona Balfe"
+    },
+    {
+        "movie_id": "tt0892769",
+        "domestic_distributor": "DreamWorks",
+        "genres": "Action, Adventure, Animation, Family, Fantasy",
+        "director": "Dean DeBlois",
+        "movie_casts": "Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse, Craig Ferguson"
+    },
+    {
+        "movie_id": "tt3315342",
+        "domestic_distributor": "Twentieth Century Fox",
+        "genres": "Action, Drama, Sci-Fi, Thriller",
+        "director": "James Mangold",
+        "movie_casts": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook"
+    },
+    {
+        "movie_id": "tt0088247",
+        "domestic_distributor": "Orion Pictures",
+        "genres": "Action, Adventure, Sci-Fi",
+        "director": "James Cameron",
+        "movie_casts": "Arnold Schwarzenegger, Linda Hamilton, Michael Biehn, Paul Winfield"
+    },
+    {
+        "movie_id": "tt0091763",
+        "domestic_distributor": "Orion Pictures",
+        "genres": "Drama, War",
+        "director": "Oliver Stone",
+        "movie_casts": "Charlie Sheen, Tom Berenger, Willem Dafoe, Keith David"
+    },
+    {
+        "movie_id": "tt0381681",
+        "domestic_distributor": "Warner Independent Pictures (WIP)",
+        "genres": "Drama, Romance",
+        "director": "Richard Linklater",
+        "movie_casts": "Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torr\u00e8s"
+    },
+    {
+        "movie_id": "tt1979320",
+        "domestic_distributor": "Universal Pictures",
+        "genres": "Biography, Drama, Sport",
+        "director": "Ron Howard",
+        "movie_casts": "Daniel Br\u00fchl, Chris Hemsworth, Olivia Wilde, Alexandra Maria Lara"
+    },
+    {
+        "movie_id": "tt0129167",
+        "domestic_distributor": "Warner Bros.",
+        "genres": "Action, Adventure, Animation, Comedy, Drama, Family, Sci-Fi",
+        "director": "Brad Bird",
+        "movie_casts": "Eli Marienthal, Harry Connick Jr., Jennifer Aniston, Vin Diesel"
+    },
+    {
+        "movie_id": "tt0325980",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Action, Adventure, Fantasy",
+        "director": "Gore Verbinski",
+        "movie_casts": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley"
+    },
+    {
+        "movie_id": "tt1454029",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Drama",
+        "director": "Tate Taylor",
+        "movie_casts": "Viola Davis, Emma Stone, Octavia Spencer, Bryce Dallas Howard"
+    },
+    {
+        "movie_id": "tt0317705",
+        "domestic_distributor": "Walt Disney Studios Motion Pictures",
+        "genres": "Action, Adventure, Animation, Family",
+        "director": "Brad Bird",
+        "movie_casts": "Craig T. Nelson, Samuel L. Jackson, Holly Hunter, Jason Lee"
+    }
+]

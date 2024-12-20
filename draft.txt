@@ -1,0 +1,45 @@
+domestic_rev = response.css("div.mojo-performance-summary span.money::text").getall()[0]
+international_rev = response.css("div.mojo-performance-summary span.money::text").getall()[1]
+total_rev = response.css("div.mojo-performance-summary span.money::text").getall()[2]
+
+domestic_opening = response.css("div.mojo-hidden-from-mobile span.money::text").getall()[0]
+budget = response.css("div.mojo-hidden-from-mobile span.money::text").getall()[1]
+
+domestic_distributor = response.css(".a-section.mojo-summary-values.mojo-hidden-from-mobile .a-spacing-none span::text").getall()[1]
+genres = response.css(".a-section.mojo-summary-values.mojo-hidden-from-mobile .a-spacing-none span::text").getall()[-2]
+
+director = response.css('#principalCrew a[href*="/name/"]::text').get()
+cast = response.css('#principalCast a[href*="/name/"]::text').getall()
+
+
+text = "Crime\n\n        Drama"
+# Split the text by newline and strip any leading/trailing whitespace from each part
+parts = [part.strip() for part in text.split('\n') if part.strip()]
+# Filter parts that start with a capital letter
+capitalized_parts = [part for part in parts if part[0].isupper()]
+# Join the parts with a comma and a space
+formatted_text = ", ".join(capitalized_parts)
+print(formatted_text)  # Output: "Crime, Drama"
+
+
+
+blog_posts:
+article_text = response.css('td a.a-link-normal::text').getall()
+link =  response.css('td a.a-link-normal::attr(href)').getall()
+date =  response.css('td span.a-color-secondary::text').getall()
+
+
+import scrapy
+
+class DirectorSpider(scrapy.Spider):
+    name = "director"
+    start_urls = [
+        'URL_OF_THE_PAGE'
+    ]
+
+    def parse(self, response):
+        # Generalized CSS selector to extract the director's name
+        director = response.css('#principalCrew a[href*="/name/"]::text').get()
+        yield {
+            'director': director
+        }
